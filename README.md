@@ -40,20 +40,20 @@
       <p align="center">
         Landing page moderna para academia com tema dark, animações e layout responsivo.
         <br>
-        <a href="[https://github.com/rrvdev/GYM-LANDING-PAGE](https://gym-lading-page.vercel.app/)">Ver LANDING PAGE</a>
+        <a href="https://gym-lading-page.vercel.app/"></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">☕ COFFE LANDING PAGE.</h3>
       <div align="center">
-        <a href="[https://github.com/rrvdev/COFFE-LANDING-PAGE](https://coffe-lading-page.vercel.app/)">
+        <a href= "https://coffe-lading-page.vercel.app/">
           <img src="https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=600&auto=format&fit=crop" width="100%" alt="Coffee Landing Page">
         </a>
       </div>
       <p align="center">
         Página elegante para cafeteria artesanal com sistema de filtro de menu em JS.
         <br>
-        <a href="[https://github.com/rrvdev/COFFE-LANDING-PAGE](https://coffe-lading-page.vercel.app/)">Ver LANDING PAGE</a>
+        <a href="https://coffe-lading-page.vercel.app/"></a>
       </p>
     </td>
   </tr>
@@ -61,14 +61,14 @@
     <td width="50%">
       <h3 align="center">🌍 ADVENTURES</h3>
       <div align="center">
-        <a href="[https://github.com/rrvdev/ADVENTURES-LANDING-PAGE](https://adventures-lading-page.vercel.app/)">
+        <a href= "https://adventures-lading-page.vercel.app/">
           <img src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=600&auto=format&fit=crop" width="100%" alt="Travel Landing Page">
         </a>
       </div>
       <p align="center">
         Landing page de turismo com efeito parallax, glassmorphism e busca interativa.
         <br>
-        <a href="[https://github.com/rrvdev/ADVENTURES-LANDING-PAGE](https://adventures-lading-page.vercel.app/)">Ver LANDING PAGE</a>
+        <a href="[https://github.com/rrvdev/ADVENTURES-LANDING-PAGE](https://adventures-lading-page.vercel.app/)"></a>
       </p>
     </td>
     <td width="50%">
