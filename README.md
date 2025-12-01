@@ -33,7 +33,7 @@
     <td width="50%">
       <h3 align="center">🏋️‍♂️ GYM LANDING PAGE</h3>
       <div align="center">
-        <a href="https://github.com/rrvdev/GYM-LANDING-PAGE">
+        <a href="https://gym-lading-page.vercel.app/">
           <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=600&auto=format&fit=crop" width="100%" alt="Gym Landing Page">
         </a>
       </div>
